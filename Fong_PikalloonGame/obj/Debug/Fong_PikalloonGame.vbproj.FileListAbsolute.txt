@@ -1,0 +1,12 @@
+C:\Users\leste\source\repos\Fong_PikalloonGame\bin\Debug\Fong_PikalloonGame.exe.config
+C:\Users\leste\source\repos\Fong_PikalloonGame\bin\Debug\Fong_PikalloonGame.exe
+C:\Users\leste\source\repos\Fong_PikalloonGame\bin\Debug\Fong_PikalloonGame.pdb
+C:\Users\leste\source\repos\Fong_PikalloonGame\bin\Debug\Fong_PikalloonGame.xml
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.vbproj.AssemblyReference.cache
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.Form1.resources
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.Resources.resources
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.vbproj.GenerateResource.cache
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.vbproj.CoreCompileInputs.cache
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.exe
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.xml
+C:\Users\leste\source\repos\Fong_PikalloonGame\obj\Debug\Fong_PikalloonGame.pdb
